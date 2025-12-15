@@ -1,0 +1,9 @@
+matplotlib
+notebook
+torch
+torchvision
+jupyter
+numpy
+pillow
+tqdm
+tensorboard
